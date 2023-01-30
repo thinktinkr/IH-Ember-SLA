@@ -26,7 +26,7 @@ module('Integration | Component | map', function (hooks) {
 
     let { src } = find('.map img');
     let token = encodeURIComponent(ENV.MAPBOX_ACCESS_TOKEN);
-  
+
     assert.ok(
       src.startsWith('https://api.mapbox.com/'),
       'the src starts with "https://api.mapbox.com/"'
