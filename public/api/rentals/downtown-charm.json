@@ -6,10 +6,8 @@
       "title": "Downtown Charm",
       "owner": "Violet Beauregarde",
       "city": "Portland",
-      "location": {
-        "lat": 45.5175,
-        "lng": -122.6801
-      },
+      "latitude": 45.5175,
+      "longitude": -122.6801,
       "category": "Apartment",
       "bedrooms": 3,
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg",
